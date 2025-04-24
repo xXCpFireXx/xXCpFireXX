@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Cristian Penagos</h1>
 
-<!--
-**xXCpFireXx/xXCpFireXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F57C&center=true&vCenter=true&width=435&lines=Desarrollador+Frontend+%7C+Java+%7C+Python;Apasionado+por+la+tecnología+y+el+aprendizaje+constante" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mí
+
+Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Domino **HTML**, **CSS** y **Java**, y actualmente estoy aprendiendo **Python** para ampliar mis habilidades en desarrollo backend y automatización.
+
+Me gusta crear soluciones prácticas, escribir código limpio y seguir explorando nuevas tecnologías.
+
+---
+
+### Tecnologías que manejo
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</p>
+
+---
+
+### Actualmente estoy...
+
+- Aprendiendo Python para desarrollo backend y automatización.
+- Trabajando en proyectos personales y mejorando mis habilidades de programación.
+
+---
+
+### ¿Quieres contactarme?
+
+<p>
+  <a href="mailto:tu.email@ejemplo.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuUsuarioDeGithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
