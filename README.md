@@ -8,7 +8,8 @@
 
 ### Sobre mí
 
-Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Domino **HTML**, **CSS** y **Java**, y actualmente estoy aprendiendo **Python** para ampliar mis habilidades en desarrollo backend y automatización.
+Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Domino **HTML**, **CSS** y **Java**, y actualmente estoy aprendiendo **Python** para ampliar mis habilidades en desarrollo backend.
+
 ---
 
 ### Tecnologías que manejo
