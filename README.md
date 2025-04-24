@@ -9,9 +9,6 @@
 ### Sobre mí
 
 Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Domino **HTML**, **CSS** y **Java**, y actualmente estoy aprendiendo **Python** para ampliar mis habilidades en desarrollo backend y automatización.
-
-Me gusta crear soluciones prácticas, escribir código limpio y seguir explorando nuevas tecnologías.
-
 ---
 
 ### Tecnologías que manejo
@@ -20,15 +17,14 @@ Me gusta crear soluciones prácticas, escribir código limpio y seguir explorand
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </p>
 
 ---
 
 ### Actualmente estoy...
 
-- Aprendiendo Python para desarrollo backend y automatización.
-- Trabajando en proyectos personales y mejorando mis habilidades de programación.
+- Aprendiendo Python para desarrollo backend.
+- Trabajando en mejorar mis habilidades de programación.
 
 ---
 
@@ -36,5 +32,4 @@ Me gusta crear soluciones prácticas, escribir código limpio y seguir explorand
 
 <p>
   <a href="mailto:suarezalejo26@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+ </p>
