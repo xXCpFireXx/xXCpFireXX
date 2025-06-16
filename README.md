@@ -38,7 +38,7 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Do
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xXCpFireXx&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
@@ -61,4 +61,6 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Do
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/harrypotterparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="30" height="30"/>
 </div>
