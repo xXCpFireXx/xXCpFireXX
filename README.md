@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Cristian Penagos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F57C&center=true&vCenter=true&width=500&lines=Desarrollador+en+formación+%7C+Java+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F57C&center=true&vCenter=true&width=800&lines=Desarrollador+en+formación+%7C+Java+%7C+Python+%7C+Javascript+%7C+MySQL" alt="Typing SVG" />
 </p>
 
 ---
